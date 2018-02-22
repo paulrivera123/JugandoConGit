@@ -1,0 +1,5 @@
+| tacos   | sabor     | tamaño  | precio | calidad |
+|---------|-----------|---------|--------|---------|
+| asada   | Bueno     | Pequeño | 20     | 5*5     |
+| Tripa   | Muy bueno | Mediano | 22     | 5/5     |
+| Adobada | Excelente | Grande  | 25     | 5/5     |
